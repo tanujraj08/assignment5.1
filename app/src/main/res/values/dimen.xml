@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TXTSIZE">25dp</dimen>
+    <dimen name="marg_top">30dp</dimen>
+    <dimen name="marg_bottom">20dp</dimen>
+</resources>
